@@ -1,0 +1,16 @@
+Team Name:Pakistan
+Total Members:11
+Imran Khan
+Shahid Saeed
+Aamir Sohail
+Aaqib Javed
+Ijaz Ahmed
+Inzamam-ul-Haq
+Iqbal Sikander
+Javed Miandad
+Moin Khan
+Mushtaq Ahmed
+Rameez Raja
+Rank:1
+Captain:Imran Khan
+Score:200,300,120,150,350,272,267,124,54,120
